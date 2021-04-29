@@ -1,0 +1,13 @@
+LET x: Integer = 0;
+LET y: Integer = 2;
+LET i: Integer;
+DEF main(): Integer DO
+	print("Hello, World!");
+	i = 0;
+	WHILE i < 3 DO
+		x = x + i;
+		print(x * y);
+		i = i + 1;
+	END
+	RETURN 0;
+END
