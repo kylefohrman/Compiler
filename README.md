@@ -25,7 +25,7 @@ Hello, World!
 6
 ```
 
-##Basic Grammar
+## Basic Grammar
   - Field statements precede method definitions
   - Field statements are marked by "LET", method definitions begin with "DEF" and enclose their statements within a "DO END" block
   - Variable, argument and method return types must be defined, valid types are Boolean, Integer, Decimal, String, Character
